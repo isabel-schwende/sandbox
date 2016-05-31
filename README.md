@@ -12,3 +12,4 @@ FizzBuzz sandbox is based on code from a blog but additional changes by me (tSNE
 
 Tensorflow sandboxes also mostly from other sources with small variations and changes from me
 -> Sandbox being used for studying purposes only, all rights go with the authors
+source: https://github.com/nlintz/TensorFlow-Tutorials
